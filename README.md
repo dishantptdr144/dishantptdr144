@@ -57,15 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantptdr144&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantptdr144&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantptdr144&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 ---
