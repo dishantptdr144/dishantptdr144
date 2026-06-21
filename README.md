@@ -31,7 +31,7 @@
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dishantptdr144&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantptdr144&theme=react-dark" />
 </p>
 
 ---
