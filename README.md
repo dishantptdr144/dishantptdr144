@@ -1,89 +1,108 @@
-<h1 align="center">Hi 👋, I'm Dishant Patidar</h1>
+<h1 align="center">👋 Hi, I'm Dishant Patidar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Python+Developer;Flask+Developer;Discord+Bot+Developer;JSON+Database+Systems;Load+Balancer+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Python+Developer;Backend+Developer;Flask+Developer;Discord+Bot+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dishantptdr144&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dishantptdr144?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/dishantptdr144?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```text
 👨‍💻 Python Developer
-🌐 Flask API Developer
+🌐 Backend Developer
+⚡ Flask API Developer
 🤖 Discord Bot Developer
-💾 JSON Database Systems
-⚡ Load Balancer Projects
-🔒 Authentication & License Systems
-☁️ Hosting & VPS Management
+☁️ Hosting & VPS Enthusiast
+📚 Always Learning New Technologies
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,mysql,git,github,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dishantptdr144&show_icons=true&theme=radical&hide=prs&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishantptdr144&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantptdr144&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+---
+
+# 📈 Development Stats
 
 ```text
-Python        ████████████████████ 100%
-Flask         ███████████████████░ 95%
-JSON          ████████████████████ 100%
-Discord.py    ██████████████████░░ 90%
-HTML/CSS      ████████████████░░░░ 80%
-GitHub        ███████████░░░░░░░░░ 50%
+Total Projects      ████████████████████
+Python Development  ████████████████████
+Backend Systems     ██████████████████░░
+Discord Bots        █████████████████░░░
+Database Systems    █████████████████░░░
+Hosting & VPS       ███████████████░░░░░
 ```
 
 ---
 
-## 🔄 Development Workflow
+# 🎯 Current Focus
 
 ```text
-Idea
- │
- ▼
-Planning
- │
- ▼
-Python Coding
- │
- ▼
-Testing
- │
- ▼
-Debugging
- │
- ▼
-Deployment
- │
- ▼
-Production
+🚀 Backend Development
+⚡ Automation Tools
+🌐 Flask APIs
+☁️ Infrastructure & Hosting
+🔐 Security Systems
+📚 Open Source Learning
 ```
 
 ---
 
-## 📂 Featured Projects
+# 💻 What I Build
 
 ```text
-💾 JSON Database Manager
-⚡ Basic LC Load Balancer
-🤖 Discord Management Bots
-🌐 Flask API Systems
-🔑 License Verification Systems
+🔹 Python Applications
+🔹 Flask APIs
+🔹 Discord Bots
+🔹 Automation Tools
+🔹 Database Systems
+🔹 Hosting Utilities
+🔹 Security Systems
+🔹 Web Dashboards
 ```
 
 ---
 
-## 📊 Current Focus
+# 🏆 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantptdr144&theme=react-dark" />
+</p>
+
+---
+
+# 👨‍💻 Author
+
+### Dishant Patidar
 
 ```text
-📚 Learning Git & GitHub
-⚡ Building Load Balancers
-🌐 Flask Backend Development
-🔐 Security & Authentication Systems
+Python Developer
+Backend Developer
+Open Source Learner
 ```
-
----
-
-## 👨‍💻 Author
-
-Dishant Patidar
 
 ⭐ Thanks for visiting my profile!
