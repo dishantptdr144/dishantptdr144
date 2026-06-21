@@ -82,8 +82,6 @@
 
 * GitHub: https://github.com/dishantptdr144
 
----
-
 ## 👨‍💻 Author
 
 <div align="center">
