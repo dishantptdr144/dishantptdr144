@@ -91,14 +91,6 @@
 
 # Dishant Patidar
 
-### 🐍 Python Developer
-
-### 🌐 Full Stack Web Developer
-
-### ⚡ Flask API Developer
-
-### ☁️ Server Management & Hosting
-
 *"Passionate about building scalable applications, automation tools, APIs, and backend systems."*
 
 </div>
