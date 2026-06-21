@@ -83,8 +83,49 @@
 
 ---
 
-<h3 align="center">👨‍💻 Dishant Patidar</h3>
+---
 
-<p align="center">
-Python Developer • Full Stack Developer • API Developer • Server Management
-</p>
+## 👨‍💻 Author
+
+<div align="center">
+
+# Dishant Patidar
+
+### 🐍 Python Developer
+
+### 🌐 Full Stack Web Developer
+
+### ⚡ Flask API Developer
+
+### ☁️ Server Management & Hosting
+
+*"Passionate about building scalable applications, automation tools, APIs, and backend systems."*
+
+</div>
+
+---
+
+### 🚀 Specializations
+
+```text
+🔹 Python Applications
+🔹 Flask APIs
+🔹 Full Stack Development
+🔹 Server Management
+🔹 Hosting Infrastructure
+🔹 Database Systems
+🔹 Automation Tools
+🔹 Security & Authentication
+🔹 Web Dashboards
+```
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+💡 Always learning, building and improving.
+
+</div>
+
