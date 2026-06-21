@@ -50,16 +50,17 @@
 
 ## 💻 What I Build
 
+```text
 🔹 Python Applications
 🔹 Flask APIs
-🔹 Discord Bots
-🔹 Automation Tools
+🔹 Full Stack Development
+🔹 Server Management
+🔹 Hosting Infrastructure
 🔹 Database Systems
-🔹 Hosting Utilities
-🔹 Security Systems
+🔹 Automation Tools
+🔹 Security & Authentication
 🔹 Web Dashboards
-
----
+```
 
 ## 🛠️ Technologies & Tools
 
@@ -94,22 +95,6 @@
 *"Passionate about building scalable applications, automation tools, APIs, and backend systems."*
 
 </div>
-
----
-
-### 🚀 Specializations
-
-```text
-🔹 Python Applications
-🔹 Flask APIs
-🔹 Full Stack Development
-🔹 Server Management
-🔹 Hosting Infrastructure
-🔹 Database Systems
-🔹 Automation Tools
-🔹 Security & Authentication
-🔹 Web Dashboards
-```
 
 ---
 
