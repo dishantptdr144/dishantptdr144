@@ -10,32 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=dishantptdr144&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishantptdr144&show_icons=true&theme=radical&hide=prs&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantptdr144&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantptdr144&layout=compact&theme=radical&langs_count=10" />
-</p>
-
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantptdr144&theme=radical" />
-</p>
-
----
-
 ## 🚀 About Me
 
 * 🐍 Python Developer
@@ -66,6 +40,30 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,php,mysql,sqlite,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishantptdr144&show_icons=true&theme=radical&hide=prs&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantptdr144&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantptdr144&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+---
+
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantptdr144&theme=radical" />
 </p>
 
 ---
