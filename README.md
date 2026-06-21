@@ -73,6 +73,7 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/dishantptdr144
+* Discord: @dishant_ptdr_144
 
 ## 👨‍💻 Author
 
