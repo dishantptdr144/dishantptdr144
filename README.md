@@ -72,8 +72,9 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/dishantptdr144
-* Discord: @dishant_ptdr_144
+* GitHub: [@dishantptdr144](https://github.com/dishantptdr144)
+* Discord: `@dishant_ptdr_144`
+* Instagram: [@dishant_ptdr_144](https://www.instagram.com/dishant_ptdr_144)
 
 ## 👨‍💻 Author
 
