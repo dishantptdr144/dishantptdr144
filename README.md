@@ -74,7 +74,7 @@
 
 * <img src="https://cdn.simpleicons.org/github" width="18"> GitHub: [@dishantptdr144](https://github.com/dishantptdr144)
 * <img src="https://cdn.simpleicons.org/discord" width="18"> Discord: `@dishant_ptdr_144`
-* <img src="https://cdn.simpleicons.org/instagram" width="18"> Instagram: [@dishant_ptdr_144]([https://www.instagram.com/dishant](https://www.instagram.com/dishant_ptdr_144)
+* <img src="https://cdn.simpleicons.org/instagram" width="18"> Instagram: [@dishant_ptdr_144](https://www.instagram.com/dishant_ptdr_144)
 
 ## 👨‍💻 Author
 
